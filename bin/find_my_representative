@@ -1,0 +1,5 @@
+require "bunler/setup"
+require "find_my_representative"
+
+
+FindMyRepresentative::CLI.new.call
